@@ -2,6 +2,10 @@
   <JSCodeStyleSettings>
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="Gherkin">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
