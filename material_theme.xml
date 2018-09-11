@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.8.3" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="accentColor" value="FF9800" />
+    <option name="darkTitleBar" value="true" />
+    <option name="userId" value="3aa492fa:165b68d1826:-8000" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="isWizardShown" value="true" />
+  </component>
+</application>
